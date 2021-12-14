@@ -1,2 +1,3 @@
 # hello-world
 hello-world exercise
+I am not very good at this. This may go very very badly. Only time will tell...
